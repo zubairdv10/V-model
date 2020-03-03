@@ -1,0 +1,13 @@
+Advantages of V-model:
+
+1.Easy and simple to use.
+2.Testing activities like test designing , planinng all happens before coding . this saves allot of time thats why it has a higher chance of success over the waterfall model
+3.Proactive defect tracking – that is defects are found at early stage.
+4.Avoids the downward flow of the defects.
+5.Works better for smaller projects where requirements are easily understood
+
+Disadvantages of V-model:
+
+1.Very hard and least flexible.
+2.Software is developed during the implementation phase, so no early prototypes of the software are produced.
+3.If any changes happen in the middle of the test , then the test documents along with requirement documents has to be updated.
